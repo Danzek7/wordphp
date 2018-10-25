@@ -1,0 +1,27 @@
+#toolbar {
+  border: 1px solid #e5e5e5;
+  width: 50%;
+  margin: 20px auto;
+  box-shadow: 2px 1px 5px rgba(0,0,0,0.2);
+}
+#editor {
+  width: 50%;
+  margin: 20px auto;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.2);
+    border: 1px solid #e5e5e5;
+  height: 300px;
+}
+
+#texto{
+	height: 200px;
+	width: 50%;
+}
+
+#textArea{
+  height: 220px;
+  width: 100%;
+  margin: 20px auto;
+}
+#submit{
+  margin-left: 500px;
+}
